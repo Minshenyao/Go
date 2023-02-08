@@ -15,30 +15,16 @@
 
 点击`*.msi`安装包，一直`Next`
 
-![](../../../static/day000/0x01_2.png)
-
 修改为想要安装到的目标目录 (`可默认`)
-
-![](../../../static/day000/0x01_3.png)
 
 点击`Install`
 
-![](../../../static/day000/0x01_4.png)
-
 等待安装完成即可，`Finish`
-
-![](../../../static/day000/0x01_5.png)
 
 
 ### Macos 平台
 
 与Windows相同，Macos也是可执行安装包，点击`*.pkg`安装包  
-
-![](../../../static/day000/0x01_7.jpg)
-
-![](../../../static/day000/0x01_8.jpg)
-
-![](../../../static/day000/0x01_9.jpg)
 
 一直`继续`等待安装完成即可，默认会安装到`/usr/local/go`目录
 
@@ -72,4 +58,3 @@ $ source ~/.bash_profile
 $ go version
 ```
 
-![](../../../static/day000/0x01_6.png)
