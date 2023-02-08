@@ -49,6 +49,7 @@ $ go env -w GOPROXY=https://mirrors.aliyun.com/goproxy/
 | Unix    | 	  $HOME/go	      | /home/{用户名}/go     |
 
 > 编译或者在拉取使用模块的时，会使用`GOPATH`下的目录，如果自定义后不存在目录，请新建  
+
 | 目录	 | 描述           | 
 |-----|--------------|
 | bin | 	放置编译后的可执行程序 | 
