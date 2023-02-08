@@ -3,7 +3,7 @@
 ## 目录
 
 - 搭建开发环境
-    - 01 [搭建开发环境](src/Environment/Build environment.md)
+    - 01 [搭建开发环境](src/Environment/Build%20environment.md)
     - 02 [安装编码环境](src/day000/02%20安装编码环境)
 - 创建一个项目
     - 00 [新建一个项目](src/day001/00%20新建一个项目/)
