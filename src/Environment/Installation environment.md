@@ -54,3 +54,5 @@ $ go env -w GOPROXY=https://mirrors.aliyun.com/goproxy/
 | bin | 	放置编译后的可执行程序 | 
 | pkg | 	  放置mod依赖包	 |
 | src | 放置项目源码       |
+
+
